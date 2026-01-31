@@ -49,6 +49,8 @@ Machine learning within Predicta is used to support:
 - Basic forecasting and trend estimation
 - Feature extraction from semi-structured inputs
 - Decision-support signals rather than autonomous decision-making
+- Details of the analytics and ML-ready design are documented in
+[`docs/ml_analytics.md`](docs/ml_analytics.md).
 
 The emphasis is on robustness, interpretability, and deployability
 rather than purely theoretical optimisation.
