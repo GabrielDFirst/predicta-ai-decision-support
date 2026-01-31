@@ -61,6 +61,8 @@ Evaluation focuses on:
 - Stability across small datasets
 - Human interpretability of outputs
 - Operational usefulness in live environments
+- Evaluation methodology and known limitations are documented in
+[`docs/evaluation_limitations.md`](docs/evaluation_limitations.md).
 
 ## Academic Context
 This repository is provided as evidence of:
