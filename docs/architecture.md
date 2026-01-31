@@ -7,6 +7,8 @@ Details that would expose proprietary implementation are intentionally omitted.
 > The diagram below shows the major components and data flows.
 
 ![Predicta Architecture](./images/predicta_architecture.png)
+*Figure 1: High-level architecture of Predicta showing major system components and data flow.
+Implementation details are intentionally abstracted for academic review.*
 
 ## Notes (Abstract)
 - Conversational interface receives user intents and messages.
