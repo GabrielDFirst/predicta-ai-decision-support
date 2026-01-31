@@ -39,6 +39,7 @@ At a high level, Predicta consists of:
 - Data storage and abstraction layer
 - Machine learning components for pattern extraction and insights
 - Rule-guided inference and response generation
+- For a high-level architectural overview, see [`docs/architecture.md`](docs/architecture.md).
 
 Detailed architecture notes are provided in the `/docs` directory.
 
